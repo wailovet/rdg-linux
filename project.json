@@ -1,0 +1,8 @@
+{
+    "name": "rDesktop GUI",
+    "version": 3.0,
+    "type": "dev",
+    "project_url": "https://github.com/olback/rdg-linux",
+    "update_url": "https://github.com/olback/rdg-linux/blob/master/README.md#Update",
+    "issue_url": "https://github.com/olback/rdg-linux/issues"
+}
