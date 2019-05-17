@@ -626,8 +626,8 @@ The special value `none' can be used instead of a keyboard map. In this case, rd
             <property name="height_request">30</property>
             <property name="visible">True</property>
             <property name="can_focus">True</property>
-            <property name="tooltip_text" translatable="yes">The IP address to your target.</property>
-            <property name="max_length">15</property>
+            <property name="tooltip_text" translatable="yes">The host to your target.</property>
+            <property name="max_length">128</property>
             <property name="width_chars">14</property>
             <property name="max_width_chars">15</property>
             <property name="placeholder_text" translatable="yes">192.168.0.15</property>
